@@ -9,3 +9,4 @@ ingested tweets to `Google PubSub` topic, and pulled the tweets to `BigQuery` da
 Scheduler` for polling the tweets and triggering the loader service.
 4. Visualized the trend with a `GCP Looker Studio` dashboard which connects the BigQuery via a SQL query.
 
+![alt text](https://github.com/phoebe20200523/Real-time-tweet-analytics/blob/main/design.png)
