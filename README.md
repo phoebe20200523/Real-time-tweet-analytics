@@ -1,5 +1,5 @@
 # Real-time-tweet-analytics
-Real-time tweet analytics toolkit installed in GCP
+Real-time tweet analytics toolkit installed in Google Cloud
 
 1. Built a microservice architecture for real-time analytics of movie-related tweets, which has analyzed more than
 `200k` tweets cumulatively.
